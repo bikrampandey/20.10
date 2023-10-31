@@ -1,0 +1,51 @@
+firstName "Terry" 
+
+lastName "Medhurst" 
+
+email "atuny0@sohu.com" 
+
+address "1745 T Street Southeast" , "Washington" 
+
+nft_avatar  "https://robohash.org/warrior.png" 
+
+confirm 
+
+password 
+
+  
+
+  
+
+firstName "Sheldon" 
+
+lastName "Quigley" 
+
+email "hbingley1@plala.or.jp" 
+
+address "6007 Applegate Lane", "Louisville" 
+
+nft_avatar "https://robohash.org/champion.png" 
+
+confirm 
+
+password 
+
+  
+
+  
+
+firstName "Terrill" 
+
+lastName "Hills" 
+
+email "rshawe2@51.la" 
+
+address "560 Penstock Drive", "Birmingham" 
+
+nft_avatar "https://robohash.org/easyrider.png" 
+
+confirm 
+
+password 
+
+ 
